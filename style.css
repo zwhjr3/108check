@@ -1,0 +1,28 @@
+body{
+    font-family: 'Georgia', cursive;
+    background: #1acf6b;
+}
+
+.header_div
+{
+    background: white;
+    color: rgb(17, 121, 112);
+
+}
+
+.header_div p{
+    font-family: 'Segoe UI', sans-serif;
+
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: rgb(206, 141, 57);
+bottom: 0;
+width: 100%;
+font-size: 20px;
+background-color: rgb(151, 221, 221);
+line-height: 3;
+text-align: center;
+text-shadow: 5px 5px 5px rgb(167, 141, 174);
+}
